@@ -146,6 +146,8 @@ header .icons a:hover{
   display: block;
 }
 
+
+
 #menu-bar{
   font-size: 2.5rem;
   padding: .5rem 1.5rem;
@@ -161,6 +163,12 @@ header .icons a:hover{
 .home{
   padding:0;
   position:relative;
+}
+
+.home .des{
+  margin: 20px;
+  text-align: start;
+  color:var(--black);
 }
 
 .home .title{
